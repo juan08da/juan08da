@@ -1,3 +1,4 @@
+![Banner](https://github.com/juan08da/juan08da/blob/main/Banner%20Linkedin%20Profesional%20Corporativo%20Gris.png)
 Sobre mi:
 
 Mi nombre es Juan Felipe Ramírez soy Analista de datos empezando en este mundo.
